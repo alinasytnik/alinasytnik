@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 👯 My name is **Alina Sytnik** - I am QA-engineer based in Warsaw, Poland. 
-Currently working for Fleek! 
+Currently working for Fleek/Psychedelic! 
 Also have some experience as front-end developer.
 Here are several websites built by me:
 - https://www.vegoil-baltic.com/
