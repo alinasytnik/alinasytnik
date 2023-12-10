@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-👯 My name is **Alina Sytnik** - I am QA-engineer based in Warsaw, Poland. 
+👯 My name is **Alina Boytsova** - I am QA-engineer based in Warsaw, Poland. 
 Currently working for Fleek! 
 Also have some experience as front-end developer.
 Here are several websites built by me:
