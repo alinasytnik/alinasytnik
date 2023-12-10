@@ -7,7 +7,7 @@ Here are several websites built by me:
 - https://www.vegoil-baltic.com/
 - https://www.alabena.com/
 
-💬 Currently I am learning how to test web apps with Cypress and Puppeteer, build websites in JavaScript, React and its ecosystem.
+💬 Currently I am learning how to test web apps with Cypress and Puppeteer, Playwright build websites in JavaScript, React and its ecosystem.
 
 🌱 Also I am a big fan of modern design patterns, so in free time I am working with Figma to create designs
 
